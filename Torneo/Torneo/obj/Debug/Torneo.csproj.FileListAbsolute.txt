@@ -1,0 +1,10 @@
+C:\Users\Josue\Downloads\Telematica\4to\Programacion Visual\Torneo\Torneo\obj\Debug\Torneo.csprojResolveAssemblyReference.cache
+C:\Users\Josue\Downloads\Telematica\4to\Programacion Visual\Torneo\Torneo\obj\Debug\Torneo.Form1.resources
+C:\Users\Josue\Downloads\Telematica\4to\Programacion Visual\Torneo\Torneo\obj\Debug\Torneo.Properties.Resources.resources
+C:\Users\Josue\Downloads\Telematica\4to\Programacion Visual\Torneo\Torneo\obj\Debug\Torneo.csproj.GenerateResource.Cache
+C:\Users\Josue\Downloads\Telematica\4to\Programacion Visual\Torneo\Torneo\obj\Debug\Torneo.csproj.CoreCompileInputs.cache
+C:\Users\Josue\Downloads\Telematica\4to\Programacion Visual\Torneo\Torneo\bin\Debug\Torneo.exe.config
+C:\Users\Josue\Downloads\Telematica\4to\Programacion Visual\Torneo\Torneo\bin\Debug\Torneo.exe
+C:\Users\Josue\Downloads\Telematica\4to\Programacion Visual\Torneo\Torneo\bin\Debug\Torneo.pdb
+C:\Users\Josue\Downloads\Telematica\4to\Programacion Visual\Torneo\Torneo\obj\Debug\Torneo.exe
+C:\Users\Josue\Downloads\Telematica\4to\Programacion Visual\Torneo\Torneo\obj\Debug\Torneo.pdb
